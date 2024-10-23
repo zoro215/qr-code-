@@ -1,0 +1,11 @@
+canvas{
+    position: relative;
+    left: 100px;
+    top: 70px;
+}
+/* @media (max-width:600px) {
+    canvas{
+        width: 100%;
+        
+    }
+} */
